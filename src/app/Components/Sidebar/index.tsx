@@ -28,10 +28,10 @@ const Sidebar = () => {
         </div>
         <div className="w-[80%] md:w-full ">
           <div className="mx-auto w-[90%] rounded-lg tracking-wide py-[0.15rem] md:mt-[3vh]">
-            <p className="text-center text-[1rem] md:text-[1.5rem] font-[600] text-[#FAFAFA]">Utkarsh Ahuja</p>
+            <p className="text-center text-[1.2rem] md:text-[1.5rem] font-[600] text-[#FAFAFA]">Utkarsh Ahuja</p>
           </div>
-          <div className="bg-[#383839] mx-auto md:w-[65%] w-[50%] rounded-lg tracking-wide py-[0.15rem] mt-[1vh] md:mt-[2vh]">
-            <p className="text-center text-[0.4rem] md:text-[0.75rem] font-[300] text-[#FAFAFA]">Software Developer</p>
+          <div className="bg-[#383839] mx-auto md:w-[65%] w-[55%] rounded-lg tracking-wide py-[0.15rem] mt-[1vh] md:mt-[2vh]">
+            <p className="text-center text-[0.55rem] md:text-[0.75rem] font-[300] text-[#FAFAFA]">Software Developer</p>
           </div>
         </div>
       </div>
