@@ -31,7 +31,7 @@ const Experience = () => {
               <h4 className="h4 timeline-item-title">Backend Intern</h4>
               <span>EL-FI Homes</span>
               <div className="timeline-text">
-                Aug'23 - Oct'23
+                Aug&apos;23 - Oct&apos;23
               </div>
               <br />
               <div className="timeline-text">
@@ -49,7 +49,7 @@ const Experience = () => {
               <h4 className="h4 timeline-item-title">Software Engineer Intern</h4>
               <span>MSIT Alumni Association</span>
               <div className="timeline-text">
-                June'23 - July'23
+                June&apos;23 - July&apos;23
               </div>
               <br />
               <div className="timeline-text">
@@ -67,9 +67,9 @@ const Experience = () => {
         <div>
           <p className="text-[#FAFAFA] font-[600] tracking-wide text-[1.5rem]">Achievements</p>
           <div className="w-[90%] text-[#FAFAFA] bg-[#232325] mx-auto my-[1vh] md:my-[2vh] rounded-md py-4 px-4 md:px-10 shadow-[rgba(0,_0,_0,_0.24)_0px_3px_8px] border-[#303030] border-[1px]">
-            <p className="mb-1">SIH'23 Finalist</p>
-            <p className="mb-1">Secured Rank3 In VIT HackHub'22</p>
-            <p>Secured Global Rank 1736 In CodeKaze Sept'23</p>
+            <p className="mb-1">SIH&apos;23 Finalist</p>
+            <p className="mb-1">Secured Rank3 In VIT HackHub&apos;22</p>
+            <p>Secured Global Rank 1736 In CodeKaze Sept&apos;23</p>
           </div>
         </div>
         <section className="timeline">

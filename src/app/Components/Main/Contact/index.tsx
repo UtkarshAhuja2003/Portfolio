@@ -58,7 +58,7 @@ const Contact = () => {
   return (
     <div>
       <div className="text-[#FAFAFA] mx-4 text-[1.5vh] md:text-[2.5vh] tracking-wide text-center my-[2vh] md:my-[6vh]">
-        I'm always open to new opportunities. Feel free to contact me!
+        I&apos;m always open to new opportunities. Feel free to contact me!
       </div>
       <div className="w-[90%] text-[#FAFAFA] bg-[#232325] mx-auto my-[4vh] md:my-[9vh] rounded-md py-4 px-4 md:px-10 shadow-[rgba(0,_0,_0,_0.24)_0px_3px_8px] border-[#303030] border-[1px]">
         <div className="md:flex justify-between mx-auto">
