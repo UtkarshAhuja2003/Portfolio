@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "title": "Server Scalability",
+        "desc": "Server Scalability Made Easy",
+        "date": "Dec 6, 2023",
+        "tag": "Distributed Systems",
+        "img": "scalability.png",
+        "link": "https://medium.com/@ahujautkarsh/server-scalability-made-easy-cf5d68d22a46"
+    },
+    {
+        "id": "2",
+        "title": "Mystery behind URL Entry",
+        "desc": "What happens when you enter a URL in browser?",
+        "date": "Feb 3, 2023",
+        "tag": "Networks",
+        "img": "urlmystery.png",
+        "link": "https://medium.com/@ahujautkarsh/understanding-the-process-behind-entering-a-url-in-your-browser-e60dd2c36104"
+    }
+]

@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCard";
 const Projects = () => {
 
   return (
-    <div className="mx-auto md:p-6 px-4  md:my-5">
+    <div className="mx-auto md:p-6 px-4 md:my-5">
       <div className="md:flex flex-wrap justify-between">
         {
           projects.map((project, index) => (
