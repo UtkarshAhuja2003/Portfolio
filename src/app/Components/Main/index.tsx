@@ -8,7 +8,7 @@ import Contact from "./Contact";
 import Blogs from "./Blogs";
 
 const Main = () => {
-  const [selectedCard, setSelectedCard] = useState("Blogs");
+  const [selectedCard, setSelectedCard] = useState("Experience");
 
   return (
     <div>
