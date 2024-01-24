@@ -18,7 +18,7 @@ import { PiGitMergeFill } from "react-icons/pi";
 const Skills = () => {
   return (
     <div>
-      <div className="w-[90%] text-[#FAFAFA] bg-[#232325] mx-auto my-[9vh] rounded-md py-4 px-4 md:px-10 shadow-[rgba(0,_0,_0,_0.24)_0px_3px_8px] border-[#303030] border-[1px]">
+      <div className="w-[90%] text-[#FAFAFA] bg-[#232325] mx-auto my-[4vh] md:my-[9vh] rounded-md py-4 px-4 md:px-10 shadow-[rgba(0,_0,_0,_0.24)_0px_3px_8px] border-[#303030] border-[1px]">
         {/* Languages */}
         <div className="flex flex-wrap justify-between my-5">
           <div className="flex">
