@@ -1,6 +1,11 @@
 'use client'
 import { useState } from "react";
 import "./style.css"
+import Skills from "./Skills";
+import Experience from "./Experience";
+import Projects from "./Projects";
+import Contact from "./Contact";
+import Blogs from "./Blogs";
 
 const Main = () => {
   const [selectedCard, setSelectedCard] = useState("Skills");
@@ -20,6 +25,11 @@ const Main = () => {
         </div>
       </div>
       <hr className="bg-[#FFDB70] rounded-lg h-[0.3rem] ml-[5%] md:ml-[3%] w-[7%] mt-[0.3vh] md:mt-[1.7vh] border-0"/>
+      {selectedCard === "Skills" && <Skills />}
+      {selectedCard === "Experience" && <Experience />}
+      {selectedCard === "Projects" && <Projects />}
+      {selectedCard === "Contact" && <Contact />}
+      {selectedCard === "Blogs" && <Blogs />}
     </div>
   );
 };
