@@ -64,7 +64,7 @@ const Skills = () => {
           </div>
           <div className="flex mt-2">
             <SiTailwindcss size={40}/>
-            <span className="ml-2 text-[1.3rem]">TailwindCSS</span>
+            <span className="ml-2 text-[1rem] md:text-[1.3rem]">TailwindCSS</span>
           </div>
         </div>
         </div>
