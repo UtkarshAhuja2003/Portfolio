@@ -8,7 +8,7 @@ import Contact from "./Contact";
 import Blogs from "./Blogs";
 
 const Main = () => {
-  const [selectedCard, setSelectedCard] = useState("Skills");
+  const [selectedCard, setSelectedCard] = useState("Contact");
 
   return (
     <div>
@@ -16,7 +16,7 @@ const Main = () => {
         <p className='md:pl-[3%] pl-[5%] text-[#FAFAFA] mt-[1vh] md:mt-[5vh] text-[1.3rem] md:text-[2rem] font-[600] tracking-wider'>
           {selectedCard}
         </p>
-        <div className={`sidecard flex md:w-[57%] justify-between p-4 md:p-6 bg-[#282829] rounded-ss-2xl md:rounded-ss-none rounded-se-2xl border-[#303030] border-[1px] rounded-es-2xl tracking-wider font-[500]`}>
+        <div className={`z-[100] sidecard flex md:w-[57%] justify-between p-4 md:p-6 bg-[#282829] rounded-ss-2xl md:rounded-ss-none rounded-se-2xl border-[#303030] border-[1px] rounded-es-2xl tracking-wider font-[500]`}>
           <p onClick={() => setSelectedCard("Skills")} className={`${selectedCard === "Skills" ? "text-[#FFDB70]" : "text-[#D6D6D6] hover:text-[#A2A2A2]"} cursor-pointer`}>Skills</p>
           <p onClick={() => setSelectedCard("Experience")} className={`${selectedCard === "Experience" ? "text-[#FFDB70]" : "text-[#D6D6D6] hover:text-[#A2A2A2]"} cursor-pointer`}>Experience</p>
           <p onClick={() => setSelectedCard("Projects")} className={`${selectedCard === "Projects" ? "text-[#FFDB70]" : "text-[#D6D6D6] hover:text-[#A2A2A2]"} cursor-pointer`}>Projects</p>

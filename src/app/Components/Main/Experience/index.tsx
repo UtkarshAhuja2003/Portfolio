@@ -15,7 +15,7 @@ const Experience = () => {
             </div>
           </a>
         </div>
-        <section className="timeline">
+        <section className="timeline mt-5 md:mt-0">
 
           <div className="title-wrapper">
             <div>
