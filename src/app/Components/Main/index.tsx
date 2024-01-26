@@ -8,7 +8,7 @@ import Contact from "./Contact";
 import Blogs from "./Blogs";
 
 const Main = () => {
-  const [selectedCard, setSelectedCard] = useState("Contact");
+  const [selectedCard, setSelectedCard] = useState("Skills");
 
   return (
     <div>
