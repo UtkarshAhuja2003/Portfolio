@@ -29,7 +29,7 @@ const Experience = () => {
             <li className="timeline-item">
               <h4 className="h4 timeline-item-title">Software Engineer Intern</h4>
               <span>Plazza</span>
-              <div className="timeline-text">Nov'24 - Feb'24</div>
+              <div className="timeline-text">Nov&apos;24 - Feb&apos;24</div>
               <br />
               <div className="timeline-text">
                 <ul>
@@ -48,7 +48,7 @@ const Experience = () => {
             <li className="timeline-item">
               <h4 className="h4 timeline-item-title">Backend Developer Intern</h4>
               <span>Stealth Startup</span>
-              <div className="timeline-text">Mar'23 - Aug'23</div>
+              <div className="timeline-text">Mar&apos;23 - Aug&apos;23</div>
               <br />
               <div className="timeline-text">
                 <ul>
@@ -65,9 +65,9 @@ const Experience = () => {
         <div>
           <p className="text-[#FAFAFA] font-[600] tracking-wide text-[1.5rem]">Achievements</p>
           <div className="w-[90%] text-[#FAFAFA] bg-[#232325] mx-auto my-[1vh] md:my-[2vh] rounded-md py-4 px-4 md:px-10 shadow-[rgba(0,_0,_0,_0.24)_0px_3px_8px] border-[#303030] border-[1px]">
-            <p className="mb-1">SIH'23 Finalist</p>
-            <p className="mb-1">Secured Rank3 In VIT HackHub'22</p>
-            <p>Secured Global Rank 1736 In CodeKaze Sept'23</p>
+            <p className="mb-1">SIH&apos;23 Finalist</p>
+            <p className="mb-1">Secured Rank3 In VIT HackHub&apos;22</p>
+            <p>Secured Global Rank 1736 In CodeKaze Sept&apos;23</p>
           </div>
         </div>
         <section className="timeline">
